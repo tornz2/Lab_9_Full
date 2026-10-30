@@ -16,19 +16,29 @@
 ## 3. Блок-схема
 
 * **Блок-схема Main:**
-  ![Блок-схема](sourse/Lab9_Main.drawio.svg)
+  <p align="center">
+  <img src="sourse/Lab9_Main.drawio.svg" alt="Main:" width="400">
+</p>
 
 * **Блок-схема def_1:**
-  ![Блок-схема](sourse/Lab9_def1.drawio.svg)
+  <p align="center">
+  <img src="sourse/Lab9_def1.drawio.svg" alt="def_1:" width="400">
+</p>
   
 * **Блок-схема def_2:**
-  ![Блок-схема](sourse/Lab9_def2.drawio.svg)
+ <p align="center">
+  <img src="sourse/Lab9_def2.drawio.svg" alt="def_2:" width="400">
+</p>
   
 * **Блок-схема def_3:**
-  ![Блок-схема](sourse/Lab9_def3.drawio.svg)
+ <p align="center">
+  <img src="sourse/Lab9_def3.drawio.svg" alt="def_3:" width="400">
+</p>
   
 * **Блок-схема def_4:**
-  ![Блок-схема](sourse/Lab9_def4.drawio.svg)
+ <p align="center">
+  <img src="sourse/Lab9_def4.drawio.svg" alt="def_4:" width="400">
+</p>
 
 ---
 
